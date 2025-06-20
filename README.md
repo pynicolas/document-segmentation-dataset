@@ -30,6 +30,12 @@ The dataset is available via the [Releases](https://github.com/pynicolas/documen
     └── masks/
 ```
 
+## Example
+Here's an example of an image and the associated mask:
+
+![image](examples/images/image1.jpg)
+![mask](examples/masks/image1.png)
+
 ## License
 
 The dataset is released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
