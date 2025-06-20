@@ -25,10 +25,9 @@ The dataset is available via the [Releases](https://github.com/pynicolas/documen
 │   └── masks/
 │       ├── img001.png
 │       └── ...
-├── val/
-│   ├── images/
-│   └── masks/
-└── test/  (optional)
+└──  val/
+    ├── images/
+    └── masks/
 ```
 
 ## License
